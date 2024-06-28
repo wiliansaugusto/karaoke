@@ -1,0 +1,58 @@
+.flexMmiddle {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.ml-10 {
+    margin-left: 5%;
+}
+.fixed-top{
+    display: block;
+    position: sticky;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.corpo {
+    padding: 10px;
+    margin-left: 3%;
+}
+
+.video {
+    width: 60vw;
+    height: 60vh;
+    margin-left: 12%;
+}
+
+.artista {
+    font-size: xx-large;
+}
+
+.musica {
+    font-size: xx-large;
+}
+
+mat-paginator {
+    margin-top: 20px;
+}
+
+td {
+    padding: 10px;
+}
+
+mat-form-field{
+    width: 50%;
+    margin-top: 15px;
+}
+
+.button-tocar {
+    background-color: rgb(39, 99, 230);
+    color: aliceblue;
+}
